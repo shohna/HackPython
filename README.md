@@ -20,6 +20,9 @@ Steps:<br/>
  
 Contributors<br/>
 <p align="center">
+<a href="https://github.com/shohna">  
+  <img src="https://github.com/Sitanshuk/HackPython/blob/master/hackpython/static/profile/profile_shohna.JPG"  height="300vh">
+</a>
 <a href="https://github.com/Sitanshuk">
   <img src="https://github.com/Sitanshuk/HackPython/blob/master/hackpython/static/profile/profile_Sitanshuk.JPG" height="300vh">
 </a>
@@ -29,7 +32,4 @@ Contributors<br/>
 <a href="https://github.com/RishabhBhatnagar">
   <img src="https://github.com/Sitanshuk/HackPython/blob/master/hackpython/static/profile/profile_rishabhbhatnagar.JPG"  height="300vh">
 </a>  
-<a href="https://github.com/shohna">  
-  <img src="https://github.com/Sitanshuk/HackPython/blob/master/hackpython/static/profile/profile_shohna.JPG"  height="300vh">
-</a>
 </p>
